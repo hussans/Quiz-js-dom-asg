@@ -11,4 +11,4 @@
 **Review**: 
 <br/>
 <br/>
-**GitHub**: https://github.com/hussans/Quiz-js-dom-asg/tree/main
+**GitHub**: https://github.com/hussans/Quiz-js-dom-asg
